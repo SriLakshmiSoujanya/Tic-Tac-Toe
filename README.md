@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 🎮 Tic Tac Toe Game
+
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project recreates the classic 3x3 grid-based game where two players take turns marking X and O, aiming to get three in a row.
 
 ✨ Features
